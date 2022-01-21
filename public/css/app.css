@@ -1,0 +1,35 @@
+#navlogo {
+  text-align: center;
+  background-color: red;
+}
+
+#footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.immagine {
+  width: 100%;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: black;
+}
+
+.thumbs {
+  text-align: center;
+  border: solid 2px white;
+  width: 15%;
+  height: auto;
+  color: white;
+  margin: 15px auto;
+}
+
+.nav {
+  background-image: url(/images/jumbotron.jpg?1b0a3671766964a4114f90322970b124);
+}
+
