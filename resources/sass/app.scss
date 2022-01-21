@@ -13,11 +13,18 @@
 .immagine{
   width: 100%;
 }
+.container{
+  background-color: black;
+
+}
+
 .home{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     background-color: black;
+    width: 70%;
+    margin: 0 auto;
 }
 .thumbs{
     text-align: center;

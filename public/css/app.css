@@ -15,11 +15,17 @@
   width: 100%;
 }
 
+.container {
+  background-color: black;
+}
+
 .home {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   background-color: black;
+  width: 70%;
+  margin: 0 auto;
 }
 
 .thumbs {
@@ -37,14 +43,9 @@
   background-color: white;
 }
 
-.info {
-  background-color: blue;
-  height: 100px;
-}
-
 .socials {
   background-image: url(/images/footer-bg.jpg?dfd68d2946f211e1b678af05fd2f830b);
-  height: 280px;
+  height: 460px;
   background-color: black;
 }
 
@@ -61,11 +62,6 @@
   height: 280px;
   -o-object-fit: none;
      object-fit: none;
-}
-
-.iscriviti {
-  height: 130px;
-  background-color: grey;
 }
 
 .linkdisx {
