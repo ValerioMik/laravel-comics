@@ -1,7 +1,9 @@
 //
 #navlogo{
     text-align: center;
-    background-color: red;
+    height: 300px;
+    background-image: url("C:/Users/valer/OneDrive/Desktop/esercitazioniboolean/vue-dc-comics/src/assets/img/jumbotron.jpg");
+    background-size: cover;
 }
 #footer{
     background-color: black;
@@ -27,5 +29,50 @@
 }
 
 .nav{
-    background-image: url("C:/Users/valer/OneDrive/Desktop/esercitazioniboolean/vue-dc-comics/src/assets/img/jumbotron.jpg");
+    height: 50px;
+    display: flex;
+    background-color: white;
+
 }
+
+
+
+  .socials {
+    background-image: url("C:/Users/valer/OneDrive/Desktop/esercitazioniboolean/laravel-comics/public/images/footer-bg.jpg");
+    height: 460px;
+    background-color: black;
+  }
+  #sx {
+    float: left;
+  }
+  #dx {
+    float: right;
+  }
+  .bigLogo {
+    width: 780px;
+    height: 280px;
+    object-fit: none;
+  }
+  
+  .linkdisx {
+    height: 40px;
+    float: left;
+  }
+  .linkdidx {
+    float: right;
+    height: 40px;
+    display: block;
+  }
+  h3 {
+    color: white;
+    display: inline-block;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  li {
+    list-style: none;
+  }
+
+
