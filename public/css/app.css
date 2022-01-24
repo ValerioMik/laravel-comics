@@ -20,6 +20,28 @@
   background-color: black;
 }
 
+.contfumetti {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.testo {
+  text-align: center;
+  align-self: flex-start;
+  margin: 67px auto;
+}
+
+.thumbs_singola {
+  text-align: center;
+  height: auto;
+  color: white;
+  margin: 67px auto;
+  width: 400px;
+}
+
 .home {
   display: flex;
   justify-content: center;
