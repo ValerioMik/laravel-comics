@@ -1,7 +1,7 @@
 #navlogo {
   text-align: center;
   height: 300px;
-  background-image: url(/images/jumbotron.jpg?1b0a3671766964a4114f90322970b124);
+  background-image: url("/storage/images/jumbotron.jpg");
   background-size: cover;
 }
 
@@ -13,6 +13,7 @@
 
 .immagine {
   width: 100%;
+  overflow: hidden;
 }
 
 .container {
@@ -41,10 +42,17 @@
   height: 50px;
   display: flex;
   background-color: white;
+  margin-top: 20px;
+}
+
+.blue {
+  height: 30px;
+  background-color: #1dc2d8;
+  text-align: center;
 }
 
 .socials {
-  background-image: url(/images/footer-bg.jpg?dfd68d2946f211e1b678af05fd2f830b);
+  background-image: url("/storage/images/footer-bg.jpg");
   height: 460px;
   background-color: black;
 }
