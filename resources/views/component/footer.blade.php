@@ -40,7 +40,7 @@
         </div>
       </aside>
       <aside id="dx">
-        <img class="bigLogo" src="/storage/images/dc-logo.png" />
+        <img class="bigLogo" src="/storage/images/dc-logo-bg.png" />
       </aside>
     </div>
   </footer>
